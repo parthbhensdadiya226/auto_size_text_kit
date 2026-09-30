@@ -1,0 +1,33 @@
+name: auto_size_text_kit
+description: "Drop-in replacement for auto_size_text: text that shrinks to fit its space, with gradient fills and outlines sized together. Works in IntrinsicHeight and tables."
+version: 0.1.0
+repository: https://github.com/parthbhensdadiya226/auto_size_text_kit
+issue_tracker: https://github.com/parthbhensdadiya226/auto_size_text_kit/issues
+
+topics:
+  - text
+  - font
+  - responsive
+  - gradient
+  - widget
+
+screenshots:
+  - description: Headlines, gradient text, outlined text and buttons shrinking as their space gets narrower.
+    path: doc/hero.gif
+  - description: Gradient text with an outline, text with a gradient outline, and numbers with a gradient, an outline or both.
+    path: doc/gradient_outline.png
+  - description: The example app with every feature.
+    path: doc/demo.png
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
