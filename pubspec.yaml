@@ -1,8 +1,10 @@
 name: auto_size_text_kit
 description: "Drop-in replacement for auto_size_text: text that shrinks to fit its space, with gradient fills and outlines sized together. Works in IntrinsicHeight and tables."
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/parthbhensdadiya226/auto_size_text_kit
 issue_tracker: https://github.com/parthbhensdadiya226/auto_size_text_kit/issues
+funding:
+  - https://buymeacoffee.com/parthbhensdadiya
 
 topics:
   - text

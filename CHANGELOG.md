@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Added a Buy Me a Coffee link (`funding` in pubspec and a Support section in the README).
+
 ## 0.1.0
 
 * 🎉 Initial release.
